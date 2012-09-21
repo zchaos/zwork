@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>zwork</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>conf-succez</name>
+			<type>2</type>
+			<location>/succez/succezIDE/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>conf-succez3.7</name>
+			<type>2</type>
+			<location>/succez/succezIDE_3.7/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>conf-succez4.0</name>
+			<type>2</type>
+			<location>/succez/succezIDE_4.0/workspace/workdir/conf</location>
+		</link>
+	</linkedResources>
+</projectDescription>
