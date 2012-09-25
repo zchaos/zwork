@@ -16,19 +16,29 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>conf-succez</name>
+			<name>ssos-conf-succez</name>
 			<type>2</type>
 			<location>/succez/succezIDE/workspace/workdir/conf</location>
 		</link>
 		<link>
-			<name>conf-succez3.7</name>
+			<name>ssos-conf-succez3.7</name>
 			<type>2</type>
 			<location>/succez/succezIDE_3.7/workspace/workdir/conf</location>
 		</link>
 		<link>
-			<name>conf-succez4.0</name>
+			<name>ssos-conf-succez4.0</name>
 			<type>2</type>
 			<location>/succez/succezIDE_4.0/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>ssws-conf-succez3.7</name>
+			<type>2</type>
+			<location>/Volumes/ssws/succez/succezIDE3.7/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>ssws-conf-succez4.0</name>
+			<type>2</type>
+			<location>/Volumes/ssws/succez/succezIDE4.0/workspace/workdir/conf</location>
 		</link>
 	</linkedResources>
 </projectDescription>
