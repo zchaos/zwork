@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report version="1.0">
+	<head>
+		<datasources>
+			<datasource type="facttable" path="fanlitest:/datamodels/fl_b0" id="fl" caption="返利表"/>
+		</datasources>
+		<properties/>
+		<styles>
+			<style id="0" align="center" background="#000000  no-repeat"/>
+			<style id="1" color="#FFFFFF"/>
+		</styles>
+	</head>
+	<params id="paramsdesignpanel">
+		<component type="datecombobox" id="bbqq">
+			<defaultvalue>=od(now(),"d=1")</defaultvalue>
+			<domlayout>left</domlayout>
+			<caption>时间起</caption>
+		</component>
+		<component type="datecombobox" id="bbqz">
+			<defaultvalue>=od(now(),"d-1")</defaultvalue>
+			<domlayout>left</domlayout>
+			<caption>时间止</caption>
+		</component>
+		<placeholder>拖拽参数到此控件</placeholder>
+	</params>
+	<body cstl="0">
+		<component sstl="default" type="datatable" id="table1">
+			<properties>
+				<visible>0</visible>
+				<top>666</top>
+				<left>286</left>
+				<position>absolute</position>
+			</properties>
+			<colgroup>
+				<col/>
+				<col/>
+				<col/>
+			</colgroup>
+			<rowgroup>
+				<row/>
+				<row/>
+			</rowgroup>
+			<tbody>
+				<tr>
+					<td cstl="1">
+						<value>商家</value>
+					</td>
+					<td cstl="1">
+						<value>销售额</value>
+					</td>
+					<td cstl="1">
+						<value>销量</value>
+					</td>
+				</tr>
+				<tr>
+					<td cstl="1" celltype="floatcell">
+						<floatObject>row</floatObject>
+						<filter>fl.B3.DM_ID&gt;''</filter>
+						<range>0,0,-1,-1</range>
+						<value>=fl.B3.DM_ID</value>
+					</td>
+					<td sstl="zh_CN-float" cstl="1">
+						<value>=fl.M3/10000</value>
+					</td>
+					<td sstl="zh_CN-int" cstl="1" celltype="">
+						<value>=count(fl.E3)</value>
+					</td>
+				</tr>
+			</tbody>
+		</component>
+		<component sstl="default" type="datatable" id="table3">
+			<properties>
+				<visible>0</visible>
+				<top>667</top>
+				<left>530</left>
+				<position>absolute</position>
+			</properties>
+			<colgroup>
+				<col/>
+				<col/>
+				<col/>
+			</colgroup>
+			<rowgroup>
+				<row/>
+				<row/>
+				<row/>
+				<row/>
+			</rowgroup>
+			<tbody>
+				<tr>
+					<td cstl="1">
+						<value>商品</value>
+					</td>
+					<td cstl="1">
+						<value>销售额</value>
+					</td>
+					<td cstl="1">
+						<value>销量</value>
+					</td>
+				</tr>
+				<tr>
+					<td cstl="1"/>
+					<td cstl="1"/>
+					<td cstl="1"/>
+				</tr>
+				<tr>
+					<td cstl="1"/>
+					<td cstl="1"/>
+					<td cstl="1"/>
+				</tr>
+				<tr>
+					<td cstl="1" celltype="floatcell">
+						<floatObject>row</floatObject>
+						<filter>fl.C3.DM_ID&gt;''</filter>
+						<range>0,0,-1,-1</range>
+						<value>=fl.C3.DM_ID</value>
+					</td>
+					<td sstl="zh_CN-float" cstl="1">
+						<value>=fl.M3/10000</value>
+					</td>
+					<td sstl="zh_CN-int" cstl="1" celltype="">
+						<value>=count(fl.E3)</value>
+					</td>
+				</tr>
+			</tbody>
+		</component>
+		<component sstl="default" type="datatable" id="table2">
+			<properties>
+				<visible>0</visible>
+				<top>667</top>
+				<left>759</left>
+				<position>absolute</position>
+			</properties>
+			<colgroup>
+				<col/>
+				<col/>
+				<col/>
+			</colgroup>
+			<rowgroup>
+				<row/>
+				<row/>
+				<row/>
+			</rowgroup>
+			<tbody>
+				<tr>
+					<td cstl="1">
+						<value>优惠方式</value>
+					</td>
+					<td cstl="1">
+						<value>销售额</value>
+					</td>
+					<td cstl="1">
+						<value>销量</value>
+					</td>
+				</tr>
+				<tr>
+					<td cstl="1"/>
+					<td cstl="1"/>
+					<td cstl="1"/>
+				</tr>
+				<tr>
+					<td cstl="1" celltype="floatcell">
+						<floatObject>row</floatObject>
+						<filter>fl.F3.DM_ID&gt;''</filter>
+						<range>0,0,-1,-1</range>
+						<value>=fl.F3.DM_ID</value>
+					</td>
+					<td sstl="zh_CN-float" cstl="1">
+						<value>=fl.M3/10000</value>
+					</td>
+					<td sstl="zh_CN-int" cstl="1" celltype="">
+						<value>=count(fl.E3)</value>
+					</td>
+				</tr>
+			</tbody>
+		</component>
+		<component sstl="noborder" type="layouttable" id="ltable1">
+			<properties>
+				<cellpadding>4</cellpadding>
+			</properties>
+			<colgroup>
+				<col>
+					<width>401</width>
+				</col>
+				<col>
+					<width>404</width>
+				</col>
+			</colgroup>
+			<rowgroup>
+				<row>
+					<height>40</height>
+				</row>
+				<row/>
+				<row/>
+			</rowgroup>
+			<tbody>
+				<tr>
+					<td sstl="zh_CN-h1" cstl="1" colspan="2" rowspan="1">
+						<value>${format(bbqq,'YY年MM月DD日')}--${format(bbqz,'YY年MM月DD日')}全国各省网络消费情况一览表</value>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" rowspan="1"/>
+				</tr>
+				<tr>
+					<td/>
+					<td/>
+				</tr>
+			</tbody>
+		</component>
+	</body>
+</report>
