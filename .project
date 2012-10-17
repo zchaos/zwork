@@ -36,15 +36,5 @@
 			<type>2</type>
 			<location>/succez/succezIDE_4.0/workspace/workdir/conf</location>
 		</link>
-		<link>
-			<name>ssws-conf-succez3.7</name>
-			<type>2</type>
-			<location>/Volumes/ssws/succez/succezIDE3.7/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>ssws-conf-succez4.0</name>
-			<type>2</type>
-			<location>/Volumes/ssws/succez/succezIDE4.0/workspace/workdir/conf</location>
-		</link>
 	</linkedResources>
 </projectDescription>
