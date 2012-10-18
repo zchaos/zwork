@@ -22,19 +22,19 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>ssos-conf-succez</name>
+			<name>mos-conf-succez</name>
 			<type>2</type>
 			<location>/succez/succezIDE/workspace/workdir/conf</location>
 		</link>
 		<link>
-			<name>ssos-conf-succez3.7</name>
+			<name>mos-conf-succez3.7</name>
 			<type>2</type>
-			<location>/succez/succezIDE_3.7/workspace/workdir/conf</location>
+			<location>/succez/succezIDE3.7/workspace/workdir/conf</location>
 		</link>
 		<link>
-			<name>ssos-conf-succez4.0</name>
+			<name>mos-conf-succez4.0</name>
 			<type>2</type>
-			<location>/succez/succezIDE_4.0/workspace/workdir/conf</location>
+			<location>/succez/succezIDE4.0/workspace/workdir/conf</location>
 		</link>
 	</linkedResources>
 </projectDescription>
