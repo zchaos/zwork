@@ -22,6 +22,26 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>mos-conf-indigo3.7</name>
+			<type>2</type>
+			<location>/succez/indigo3.7/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>mos-conf-indigo3.7n</name>
+			<type>2</type>
+			<location>/succez/indigo3.7n/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>mos-conf-juno4.2</name>
+			<type>2</type>
+			<location>/succez/juno4.2/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>mos-conf-juno4.2n</name>
+			<type>2</type>
+			<location>/succez/juno4.2n/workspace/workdir/conf</location>
+		</link>
+		<link>
 			<name>mos-conf-succez</name>
 			<type>2</type>
 			<location>/succez/succezIDE/workspace/workdir/conf</location>
