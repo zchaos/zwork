@@ -4,19 +4,115 @@
 	<groupId>zwork</groupId>
 	<artifactId>zwork</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<build>
-		<sourceDirectory>src</sourceDirectory>
-	</build>
+
+	<parent>
+		<groupId>com.succez.bi</groupId>
+		<artifactId>com.succez.bi.git</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+
 	<dependencies>
 		<dependency>
-			<groupId>commons-lang</groupId>
-			<artifactId>commons-lang</artifactId>
-			<version>2.6</version>
+			<groupId>com.succez.security</groupId>
+			<artifactId>com.succez.security.api</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>commons-io</groupId>
-			<artifactId>commons-io</artifactId>
-			<version>2.0.1</version>
+			<groupId>com.succez.security</groupId>
+			<artifactId>com.succez.security.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.api.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.commons</groupId>
+			<artifactId>com.succez.commons.jdbc.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.rpt.dsn</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.dw.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.rpt.dwimpl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.query.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.portal</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.prst.chart.rptimpl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.analysis</groupId>
+			<artifactId>com.succez.analysis.api</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.analysis</groupId>
+			<artifactId>com.succez.analysis.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.prst.minichart</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.activedoc.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.prst.map.impl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.succez.bi</groupId>
+			<artifactId>com.succez.bi.prst.map.rptimpl</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+
+		<!-- <dependency> <groupId>com.succez.commons</groupId> <artifactId>com.succez.commons.cluster.impl</artifactId> 
+			<version>1.0.0-SNAPSHOT</version> </dependency> <dependency> <groupId>com.succez.bi</groupId> 
+			<artifactId>com.succez.bi.cluster</artifactId> <version>1.0.0-SNAPSHOT</version> 
+			</dependency> -->
 	</dependencies>
+
+	<build>
+		<finalName>succezbi</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<configuration>
+					<instructions>
+						<Import-Package>org.springframework.beans.factory.config,*</Import-Package>
+					</instructions>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<packaging>bundle</packaging>
 </project>
