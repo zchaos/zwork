@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="mos-conf-juno4.0"/>
+	<classpathentry kind="src" path="mos-conf-juno4.0n"/>
 	<classpathentry kind="src" path="mos-conf-juno4.2"/>
 	<classpathentry kind="src" path="mos-conf-juno4.2n"/>
 	<classpathentry kind="src" path="mos-conf-indigo3.7"/>

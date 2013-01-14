@@ -32,6 +32,16 @@
 			<location>/succez/indigo3.7n/workspace/workdir/conf</location>
 		</link>
 		<link>
+			<name>mos-conf-juno4.0</name>
+			<type>2</type>
+			<location>/succez/juno4.0/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>mos-conf-juno4.0n</name>
+			<type>2</type>
+			<location>/succez/juno4.0n/workspace/workdir/conf</location>
+		</link>
+		<link>
 			<name>mos-conf-juno4.2</name>
 			<type>2</type>
 			<location>/succez/juno4.2/workspace/workdir/conf</location>
