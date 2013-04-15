@@ -22,49 +22,19 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>mos-conf-indigo3.7</name>
+			<name>conf-indigo3.7</name>
 			<type>2</type>
-			<location>/succez/indigo3.7/workspace/workdir/conf</location>
+			<location>D:/succez/indigo3.7/workspace/workdir/conf</location>
 		</link>
 		<link>
-			<name>mos-conf-indigo3.7n</name>
+			<name>conf-juno4.2</name>
 			<type>2</type>
-			<location>/succez/indigo3.7n/workspace/workdir/conf</location>
+			<location>D:/succez/juno4.2/workspace/workdir/conf</location>
 		</link>
 		<link>
-			<name>mos-conf-juno4.2</name>
+			<name>conf-succezIDE</name>
 			<type>2</type>
-			<location>/succez/juno4.2/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>mos-conf-juno4.2n</name>
-			<type>2</type>
-			<location>/succez/juno4.2n/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>mos-conf-succez</name>
-			<type>2</type>
-			<location>/succez/succezIDE/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>mss-conf-indigo3.7</name>
-			<type>2</type>
-			<location>/Volumes/mss/succez/indigo3.7/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>mss-conf-indigo3.7n</name>
-			<type>2</type>
-			<location>/Volumes/mss/succez/indigo3.7n/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>mss-conf-juno4.2</name>
-			<type>2</type>
-			<location>/Volumes/mss/succez/juno4.2/workspace/workdir/conf</location>
-		</link>
-		<link>
-			<name>mss-conf-juno4.2n</name>
-			<type>2</type>
-			<location>/Volumes/mss/succez/juno4.2n/workspace/workdir/conf</location>
+			<location>D:/succezIDE/workspace/workdir/conf</location>
 		</link>
 	</linkedResources>
 </projectDescription>
