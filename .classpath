@@ -5,6 +5,8 @@
 	<classpathentry kind="src" path="mos-conf-indigo3.7n"/>
 	<classpathentry kind="src" path="mos-conf-juno4.2"/>
 	<classpathentry kind="src" path="mos-conf-juno4.2n"/>
+	<classpathentry kind="src" path="mos-conf-kepler4.3"/>
+	<classpathentry kind="src" path="mos-conf-kepler4.3n"/>
 	<classpathentry kind="src" path="mss-conf-indigo3.7"/>
 	<classpathentry kind="src" path="mss-conf-indigo3.7n"/>
 	<classpathentry kind="src" path="mss-conf-juno4.2"/>

@@ -42,6 +42,16 @@
 			<location>/succez/juno4.2n/workspace/workdir/conf</location>
 		</link>
 		<link>
+			<name>mos-conf-kepler4.3</name>
+			<type>2</type>
+			<location>/succez/kepler4.3/workspace/workdir/conf</location>
+		</link>
+		<link>
+			<name>mos-conf-kepler4.3n</name>
+			<type>2</type>
+			<location>/succez/kepler4.3n/workspace/workdir/conf</location>
+		</link>
+		<link>
 			<name>mos-conf-succez</name>
 			<type>2</type>
 			<location>/succez/succezIDE/workspace/workdir/conf</location>
