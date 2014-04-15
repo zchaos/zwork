@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="project" default="download_eclipse_plugins">
+	<target name="download_eclipse_plugins">
+		<property name="jetty" value="/zss/env/eclipse/plugins/jetty" />
+		<p2.mirror destination="file:/${jetty}" description="jetty" verbose="true">
+			<source>
+				<repository name="jetty" location="http://run-jetty-run.googlecode.com/svn/trunk/updatesite" />
+			</source>
+			<slicingOptions includeFeatures="true" followStrict="true" latestVersionOnly="true" />
+		</p2.mirror>
+	</target>
+</project>
