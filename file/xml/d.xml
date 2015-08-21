@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<report version="1.0">
-</report>
+<succezci-datapackage version="1.0.13">
+	<head>
+		<modelversion>7cce2365fc6df3751e3b68a529a33f91</modelversion>
+		<formpermissions>*=w</formpermissions>
+		<lock_datahierarchy>110000</lock_datahierarchy>
+		<locker>zhuchx</locker>
+		<lock_datahierarchy_name>北京市</lock_datahierarchy_name>
+		<SYS_LOCKER>zhuchx</SYS_LOCKER>
+		<SYS_LOCK_DH>110000</SYS_LOCK_DH>
+		<SYS_LOCK_DH_NAME>北京市</SYS_LOCK_DH_NAME>
+		<lastsubmittime>1436862782735</lastsubmittime>
+		<SYS_UPDATE_TIME>1436862782735</SYS_UPDATE_TIME>
+		<audittag>1</audittag>
+		<auditinf/>
+		<SYS_AUDIT_TAG>1</SYS_AUDIT_TAG>
+		<approval_state>4</approval_state>
+		<latest_app_user/>
+		<latest_app_approver/>
+		<latest_app_opinion/>
+		<SYS_APPROVE_TAG>4</SYS_APPROVE_TAG>
+		<SYS_LATEST_APP_USER/>
+		<SYS_LATEST_APPROVER/>
+		<SYS_LATEST_APP_OPINION/>
+	</head>
+	<hierarchy>
+		<models>
+			<table name="FORM" version="1.0.13" grain="YEARMONTH,SWJG">
+				<field name="YEARMONTH" type="C" len="12"/>
+				<field name="SWJG" type="C" len="20"/>
+				<field name="CI_AUDITTAG" type="I" len="0"/>
+				<field name="EDIT1" type="C" len="50"/>
+			</table>
+		</models>
+		<data>
+			<table name="FORM">
+				<row>201506,110000,,7</row>
+			</table>
+		</data>
+	</hierarchy>
+</succezci-datapackage>

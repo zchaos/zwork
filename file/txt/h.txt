@@ -1,0 +1,129 @@
+5:54:33.095 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rptresult
+15:54:33.095 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :0
+15:54:33.095 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :0
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :663
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:170
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :0
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :0
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :663
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:170
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col0 width :128
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col1 width :72
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col2 width :72
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col3 width :72
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col4 width :72
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col5 width :90
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col6 width :77
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.col7 width :78
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.row0 height:41
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.row1 height:27
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.row2 height:27
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.row3 height:27
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.row4 height:21
+15:54:33.126 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   table6.row5 height:27
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.A1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :6
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :116
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.B1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :133
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :61
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.C1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :205
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :61
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.D1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :286
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :42
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.E1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :349
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :61
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.F1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :421
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :79
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.G1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :523
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :42
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.H1_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :588
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :11
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :67
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:19
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.A2_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :6
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :46
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :116
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.F2_TEXT
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :421
+15:54:33.128 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :46
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :79
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.G2_TEXT
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :511
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :46
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :66
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.H2_IMAGESUF
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :639
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :46
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.H2_TEXT
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :588
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :46
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :51
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.H3_IMAGEPRE
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :591
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :73
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.H3_IMAGESUF
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :636
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :73
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.H3_TEXT
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :607
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :73
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :28
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.B4_IMAGEPRE
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :135
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :100
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.B4_IMAGESUF
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :176
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :100
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.B4_TEXT
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :151
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :100
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :24
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.131 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.D6_IMAGEPRE
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :291
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :148
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - table6.D6_IMAGESUF
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :307
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :148
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :16
+15:54:33.133 [SZTask-4]TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:16

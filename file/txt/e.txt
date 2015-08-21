@@ -1,0 +1,2255 @@
+15:26:03.795 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rptresult
+15:26:03.796 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :0
+15:26:03.796 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :0
+15:26:03.843 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :2242
+15:26:03.843 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:719
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - lt_0
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :8
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :8
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :2226
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:703
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   lt_0.col0 width :742
+15:26:03.844 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   lt_0.col1 width :742
+15:26:03.845 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   lt_0.col2 width :742
+15:26:03.846 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   lt_0.row0 height:27
+15:26:03.846 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   lt_0.row1 height:24
+15:26:03.846 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   lt_0.row2 height:652
+15:26:03.846 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - lt_0.A1_TEXT
+15:26:03.847 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1016
+15:26:03.847 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :10
+15:26:03.847 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :210
+15:26:03.847 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:23
+15:26:03.848 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - lt_0.A2_TEXT
+15:26:03.848 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :10
+15:26:03.848 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :40
+15:26:03.849 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :720
+15:26:03.849 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.849 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1
+15:26:03.849 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :10
+15:26:03.849 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :61
+15:26:03.849 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :2220
+15:26:03.850 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:648
+15:26:03.850 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col0 width :140
+15:26:03.850 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col1 width :80
+15:26:03.850 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col2 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col3 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col4 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col5 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col6 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col7 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col8 width :80
+15:26:03.851 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col9 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col10 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col11 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col12 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col13 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col14 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col15 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col16 width :80
+15:26:03.852 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col17 width :80
+15:26:03.854 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col18 width :80
+15:26:03.854 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col19 width :80
+15:26:03.855 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col20 width :80
+15:26:03.855 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col21 width :80
+15:26:03.855 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col22 width :80
+15:26:03.855 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col23 width :80
+15:26:03.855 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col24 width :80
+15:26:03.855 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col25 width :80
+15:26:03.856 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.col26 width :80
+15:26:03.856 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row0 height:24
+15:26:03.856 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row1 height:24
+15:26:03.856 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row2 height:24
+15:26:03.857 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row3 height:24
+15:26:03.857 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row4 height:24
+15:26:03.857 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row5 height:24
+15:26:03.857 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row6 height:24
+15:26:03.857 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row7 height:24
+15:26:03.857 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row8 height:24
+15:26:03.858 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row9 height:24
+15:26:03.858 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row10 height:24
+15:26:03.858 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row11 height:24
+15:26:03.858 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row12 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row13 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row14 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row15 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row16 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row17 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row18 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row19 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row20 height:24
+15:26:03.859 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row21 height:24
+15:26:03.864 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row22 height:24
+15:26:03.865 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row23 height:24
+15:26:03.865 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row24 height:24
+15:26:03.865 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row25 height:24
+15:26:03.866 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   rpt1.row26 height:24
+15:26:03.866 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - text2
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :38
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :87
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - text1
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :93
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :73
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.867 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.868 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B1_TEXT
+15:26:03.868 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :216
+15:26:03.868 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.868 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.869 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.870 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D1_TEXT
+15:26:03.871 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :363
+15:26:03.871 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.871 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :52
+15:26:03.871 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.871 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F1_TEXT
+15:26:03.872 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :539
+15:26:03.872 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.872 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :20
+15:26:03.872 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.872 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.H1_TEXT
+15:26:03.873 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :690
+15:26:03.873 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.873 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :39
+15:26:03.873 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.873 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J1_TEXT
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :850
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :39
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L1_TEXT
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1016
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.874 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N1_TEXT
+15:26:03.875 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1170
+15:26:03.875 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.875 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :39
+15:26:03.875 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.875 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P1_TEXT
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1336
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R1_TEXT
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1496
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.876 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.877 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T1_TEXT
+15:26:03.877 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1650
+15:26:03.877 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.877 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :39
+15:26:03.878 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.878 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V1_TEXT
+15:26:03.878 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1816
+15:26:03.878 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.879 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.879 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.879 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X1_TEXT
+15:26:03.879 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1976
+15:26:03.879 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.880 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :26
+15:26:03.880 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.880 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z1_TEXT
+15:26:03.880 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2130
+15:26:03.880 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :66
+15:26:03.881 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :39
+15:26:03.881 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.881 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B2_TEXT
+15:26:03.881 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :165
+15:26:03.881 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.881 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.882 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.882 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C2_TEXT
+15:26:03.883 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :245
+15:26:03.883 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.883 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.883 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.885 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D2_TEXT
+15:26:03.886 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :325
+15:26:03.887 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.887 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.888 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.888 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E2_TEXT
+15:26:03.888 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :405
+15:26:03.888 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.888 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.889 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.890 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F2_TEXT
+15:26:03.891 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :485
+15:26:03.891 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.891 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.891 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.892 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G2_TEXT
+15:26:03.892 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :565
+15:26:03.893 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.893 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.893 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.894 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.H2_TEXT
+15:26:03.894 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :645
+15:26:03.894 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.895 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.895 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.895 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.I2_TEXT
+15:26:03.895 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :725
+15:26:03.896 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.896 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.896 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.897 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J2_TEXT
+15:26:03.897 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :805
+15:26:03.897 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.898 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.898 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.898 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K2_TEXT
+15:26:03.898 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :885
+15:26:03.899 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.899 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.899 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.899 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L2_TEXT
+15:26:03.899 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :965
+15:26:03.900 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.900 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.900 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.900 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M2_TEXT
+15:26:03.901 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1045
+15:26:03.901 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.901 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.901 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.901 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N2_TEXT
+15:26:03.902 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1125
+15:26:03.903 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.903 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.904 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.905 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O2_TEXT
+15:26:03.906 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1205
+15:26:03.906 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.906 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.907 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.907 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P2_TEXT
+15:26:03.907 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1285
+15:26:03.908 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.908 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.908 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.909 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q2_TEXT
+15:26:03.909 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1365
+15:26:03.909 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.909 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.910 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.911 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R2_TEXT
+15:26:03.913 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1445
+15:26:03.913 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.914 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.915 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.916 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S2_TEXT
+15:26:03.918 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1525
+15:26:03.920 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.920 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.920 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.920 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T2_TEXT
+15:26:03.921 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1605
+15:26:03.921 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.922 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.922 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.927 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U2_TEXT
+15:26:03.927 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1685
+15:26:03.927 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.928 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.928 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.929 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V2_TEXT
+15:26:03.929 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1765
+15:26:03.929 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.929 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.930 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.930 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W2_TEXT
+15:26:03.930 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1845
+15:26:03.930 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.930 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.931 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.931 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X2_TEXT
+15:26:03.931 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1925
+15:26:03.931 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.932 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.932 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.932 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y2_TEXT
+15:26:03.933 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2005
+15:26:03.933 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z2_TEXT
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2085
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.934 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA2_TEXT
+15:26:03.935 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2165
+15:26:03.935 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :89
+15:26:03.935 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.935 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.936 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A3_TEXT
+15:26:03.936 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.937 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.937 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.937 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.937 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B3_TEXT
+15:26:03.937 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:03.938 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.938 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.938 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.938 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C3_TEXT
+15:26:03.939 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:03.939 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.939 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.939 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.939 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D3_TEXT
+15:26:03.939 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :369
+15:26:03.940 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.940 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.940 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.940 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E3_TEXT
+15:26:03.941 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:03.941 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.941 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.941 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.942 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J3_TEXT
+15:26:03.942 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:03.942 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.942 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.942 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.943 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K3_TEXT
+15:26:03.943 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:03.944 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.944 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.944 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.944 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L3_TEXT
+15:26:03.945 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:03.945 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.945 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.945 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M3_TEXT
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R3_TEXT
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:03.946 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.947 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.947 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.947 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S3_TEXT
+15:26:03.947 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:03.947 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.947 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.948 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.948 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T3_TEXT
+15:26:03.949 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:03.949 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.949 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.949 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U3_TEXT
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V3_TEXT
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:03.950 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W3_TEXT
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.951 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z3_TEXT
+15:26:03.952 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:03.952 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.952 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.952 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.953 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA3_TEXT
+15:26:03.954 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:03.954 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :113
+15:26:03.954 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.954 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.954 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A4_TEXT
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B4_TEXT
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C4_TEXT
+15:26:03.955 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:03.956 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.956 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.956 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.956 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D4_TEXT
+15:26:03.956 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :381
+15:26:03.956 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E4_TEXT
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :431
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F4_TEXT
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:03.957 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G4_TEXT
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J4_TEXT
+15:26:03.958 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :849
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K4_TEXT
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L4_TEXT
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:03.959 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M4_TEXT
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.960 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N4_TEXT
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O4_TEXT
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.961 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.962 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R4_TEXT
+15:26:03.962 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:03.962 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.962 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.962 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.963 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S4_TEXT
+15:26:03.963 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:03.963 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.963 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.963 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.963 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X4_TEXT
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y4_TEXT
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :137
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A5_TEXT
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.964 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F5_TEXT
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G5_TEXT
+15:26:03.965 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J5_TEXT
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.966 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.967 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K5_TEXT
+15:26:03.967 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:03.967 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.967 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.967 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.967 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R5_TEXT
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S5_TEXT
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1527
+15:26:03.968 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T5_TEXT
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U5_TEXT
+15:26:03.969 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1693
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V5_TEXT
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W5_TEXT
+15:26:03.970 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z5_TEXT
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA5_TEXT
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :161
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.971 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A6_TEXT
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :185
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :72
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B6_TEXT
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :185
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C6_TEXT
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :185
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.972 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P6_TEXT
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1335
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :185
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q6_TEXT
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1373
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :185
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.973 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A7_TEXT
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B7_TEXT
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C7_TEXT
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.974 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.975 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J7_TEXT
+15:26:03.975 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:03.975 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.975 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.975 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.975 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K7_TEXT
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P7_TEXT
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q7_TEXT
+15:26:03.976 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R7_TEXT
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S7_TEXT
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.977 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T7_TEXT
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1649
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U7_TEXT
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V7_TEXT
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1809
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.978 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W7_TEXT
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X7_TEXT
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y7_TEXT
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :209
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.979 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A8_TEXT
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L8_TEXT
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M8_TEXT
+15:26:03.980 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:03.981 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.981 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.981 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.981 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X8_TEXT
+15:26:03.981 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1981
+15:26:03.981 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y8_TEXT
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2031
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z8_TEXT
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA8_TEXT
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :233
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.982 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.990 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A9_TEXT
+15:26:03.991 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.991 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.992 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.992 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.992 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B9_TEXT
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C9_TEXT
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F9_TEXT
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :529
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.993 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G9_TEXT
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J9_TEXT
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K9_TEXT
+15:26:03.994 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N9_TEXT
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O9_TEXT
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.995 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R9_TEXT
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S9_TEXT
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.996 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V9_TEXT
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1809
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W9_TEXT
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X9_TEXT
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.997 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y9_TEXT
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2019
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z9_TEXT
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.998 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA9_TEXT
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :257
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A10_TEXT
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B10_TEXT
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:03.999 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C10_TEXT
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.H10_TEXT
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :695
+15:26:04.000 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.I10_TEXT
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :733
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.001 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J10_TEXT
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K10_TEXT
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.002 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.003 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P10_TEXT
+15:26:04.004 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:04.004 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.004 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.004 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.004 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q10_TEXT
+15:26:04.004 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R10_TEXT
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S10_TEXT
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:04.005 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.006 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.006 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.008 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X10_TEXT
+15:26:04.009 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1969
+15:26:04.010 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.011 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.011 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.011 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y10_TEXT
+15:26:04.011 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z10_TEXT
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.012 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA10_TEXT
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :281
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A11_TEXT
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B11_TEXT
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.013 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C11_TEXT
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F11_TEXT
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.014 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G11_TEXT
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L11_TEXT
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.015 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.016 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M11_TEXT
+15:26:04.016 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.016 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.016 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.016 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T11_TEXT
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U11_TEXT
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.017 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V11_TEXT
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1809
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W11_TEXT
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :305
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.018 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A12_TEXT
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B12_TEXT
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C12_TEXT
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :247
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.019 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.020 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N12_TEXT
+15:26:04.020 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.020 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.020 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.020 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.020 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O12_TEXT
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P12_TEXT
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.021 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q12_TEXT
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R12_TEXT
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1489
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S12_TEXT
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1527
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.022 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V12_TEXT
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W12_TEXT
+15:26:04.023 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X12_TEXT
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y12_TEXT
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.024 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z12_TEXT
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2129
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA12_TEXT
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :329
+15:26:04.025 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A13_TEXT
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F13_TEXT
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :529
+15:26:04.026 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G13_TEXT
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L13_TEXT
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M13_TEXT
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.027 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T13_TEXT
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U13_TEXT
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X13_TEXT
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.028 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y13_TEXT
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z13_TEXT
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA13_TEXT
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :353
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A14_TEXT
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.029 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B14_TEXT
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C14_TEXT
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F14_TEXT
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G14_TEXT
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L14_TEXT
+15:26:04.030 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M14_TEXT
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N14_TEXT
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O14_TEXT
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1219
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.031 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P14_TEXT
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q14_TEXT
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.032 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R14_TEXT
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S14_TEXT
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V14_TEXT
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1809
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W14_TEXT
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.033 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X14_TEXT
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y14_TEXT
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2007
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :377
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.034 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A15_TEXT
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B15_TEXT
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C15_TEXT
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D15_TEXT
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :375
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.035 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E15_TEXT
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F15_TEXT
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :529
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G15_TEXT
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N15_TEXT
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1169
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.036 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O15_TEXT
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R15_TEXT
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S15_TEXT
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.037 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T15_TEXT
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U15_TEXT
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V15_TEXT
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W15_TEXT
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1853
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.038 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X15_TEXT
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y15_TEXT
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z15_TEXT
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA15_TEXT
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :401
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.039 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A16_TEXT
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B16_TEXT
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C16_TEXT
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F16_TEXT
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.040 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G16_TEXT
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N16_TEXT
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1169
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O16_TEXT
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.041 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P16_TEXT
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1335
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q16_TEXT
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V16_TEXT
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1809
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W16_TEXT
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1835
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :72
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.042 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X16_TEXT
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1969
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y16_TEXT
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2007
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :425
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A17_TEXT
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.043 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.044 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.044 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.044 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B17_TEXT
+15:26:04.044 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C17_TEXT
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.047 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D17_TEXT
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :375
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E17_TEXT
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :419
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F17_TEXT
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.048 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G17_TEXT
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J17_TEXT
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :849
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.049 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K17_TEXT
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N17_TEXT
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1181
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.050 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O17_TEXT
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1219
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P17_TEXT
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1341
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q17_TEXT
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1379
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R17_TEXT
+15:26:04.051 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1501
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S17_TEXT
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1539
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X17_TEXT
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1969
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.052 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y17_TEXT
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z17_TEXT
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2129
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA17_TEXT
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :449
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A18_TEXT
+15:26:04.053 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B18_TEXT
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C18_TEXT
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :247
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D18_TEXT
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :369
+15:26:04.054 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E18_TEXT
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.H18_TEXT
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :701
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.I18_TEXT
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :733
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.055 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J18_TEXT
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K18_TEXT
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L18_TEXT
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M18_TEXT
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N18_TEXT
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.056 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O18_TEXT
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P18_TEXT
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q18_TEXT
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R18_TEXT
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.057 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S18_TEXT
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V18_TEXT
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W18_TEXT
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1853
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.058 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X18_TEXT
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y18_TEXT
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2019
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :473
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A19_TEXT
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B19_TEXT
+15:26:04.059 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C19_TEXT
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :259
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D19_TEXT
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :375
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.060 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E19_TEXT
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F19_TEXT
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :529
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.061 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G19_TEXT
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.H19_TEXT
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :695
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.I19_TEXT
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :727
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J19_TEXT
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K19_TEXT
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.062 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L19_TEXT
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M19_TEXT
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1047
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N19_TEXT
+15:26:04.063 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1169
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O19_TEXT
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R19_TEXT
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1489
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S19_TEXT
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1527
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T19_TEXT
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1649
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.064 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U19_TEXT
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V19_TEXT
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W19_TEXT
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X19_TEXT
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y19_TEXT
+15:26:04.065 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :497
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A20_TEXT
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :84
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D20_TEXT
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :369
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E20_TEXT
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J20_TEXT
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.066 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K20_TEXT
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L20_TEXT
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M20_TEXT
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1047
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P20_TEXT
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q20_TEXT
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1367
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.067 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T20_TEXT
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U20_TEXT
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z20_TEXT
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA20_TEXT
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :521
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A21_TEXT
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.068 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B21_TEXT
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C21_TEXT
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D21_TEXT
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :369
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.069 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E21_TEXT
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F21_TEXT
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G21_TEXT
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :579
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J21_TEXT
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :849
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.070 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K21_TEXT
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :887
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L21_TEXT
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1021
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M21_TEXT
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1059
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N21_TEXT
+15:26:04.071 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O21_TEXT
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P21_TEXT
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1329
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q21_TEXT
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1373
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R21_TEXT
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.072 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S21_TEXT
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1527
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T21_TEXT
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U21_TEXT
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.073 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z21_TEXT
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA21_TEXT
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :545
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A22_TEXT
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.074 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B22_TEXT
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C22_TEXT
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.075 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.076 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.076 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.076 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F22_TEXT
+15:26:04.076 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.077 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.077 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.077 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.078 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G22_TEXT
+15:26:04.078 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.078 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.079 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.079 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.079 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J22_TEXT
+15:26:04.079 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.079 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.080 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.080 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.081 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K22_TEXT
+15:26:04.081 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.081 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.081 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.081 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.081 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L22_TEXT
+15:26:04.082 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:04.082 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.082 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.082 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.083 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M22_TEXT
+15:26:04.084 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1047
+15:26:04.086 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.087 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.088 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.108 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N22_TEXT
+15:26:04.108 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.109 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.109 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.109 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.110 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O22_TEXT
+15:26:04.110 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.110 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.110 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.110 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.110 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R22_TEXT
+15:26:04.111 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1489
+15:26:04.111 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.111 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.111 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.111 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S22_TEXT
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1527
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T22_TEXT
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U22_TEXT
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.112 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V22_TEXT
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1809
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W22_TEXT
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z22_TEXT
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.113 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA22_TEXT
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :569
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A23_TEXT
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B23_TEXT
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.114 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C23_TEXT
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D23_TEXT
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :375
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E23_TEXT
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F23_TEXT
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.115 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G23_TEXT
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :579
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J23_TEXT
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K23_TEXT
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L23_TEXT
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:04.116 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M23_TEXT
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N23_TEXT
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O23_TEXT
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.117 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P23_TEXT
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1335
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q23_TEXT
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1373
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R23_TEXT
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.118 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S23_TEXT
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T23_TEXT
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U23_TEXT
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.119 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V23_TEXT
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W23_TEXT
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.120 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.121 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X23_TEXT
+15:26:04.123 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.123 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.123 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.124 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.125 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y23_TEXT
+15:26:04.125 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.125 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.125 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.125 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.125 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z23_TEXT
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2129
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA23_TEXT
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.126 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :593
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A24_TEXT
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B24_TEXT
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C24_TEXT
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.127 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F24_TEXT
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G24_TEXT
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :573
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X24_TEXT
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.128 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y24_TEXT
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z24_TEXT
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2129
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA24_TEXT
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :617
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A25_TEXT
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.129 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B25_TEXT
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :215
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C25_TEXT
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D25_TEXT
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :375
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.130 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E25_TEXT
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J25_TEXT
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K25_TEXT
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.131 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L25_TEXT
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M25_TEXT
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1047
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N25_TEXT
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O25_TEXT
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R25_TEXT
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1495
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.132 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S25_TEXT
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1527
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V25_TEXT
+15:26:04.133 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W25_TEXT
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.134 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.135 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X25_TEXT
+15:26:04.135 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1969
+15:26:04.135 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.135 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.135 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.135 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y25_TEXT
+15:26:04.136 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2007
+15:26:04.139 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.139 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.139 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.140 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z25_TEXT
+15:26:04.141 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2135
+15:26:04.141 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.141 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.141 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.141 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA25_TEXT
+15:26:04.142 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.142 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :641
+15:26:04.142 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.142 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.142 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A26_TEXT
+15:26:04.142 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.143 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.143 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :36
+15:26:04.143 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J26_TEXT
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K26_TEXT
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :899
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L26_TEXT
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1009
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.144 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M26_TEXT
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N26_TEXT
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O26_TEXT
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1219
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :665
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.145 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.A27_TEXT
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :13
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :96
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.B27_TEXT
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :209
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.C27_TEXT
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :253
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.D27_TEXT
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :369
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.E27_TEXT
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :413
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.146 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.F27_TEXT
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :535
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.G27_TEXT
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :579
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :48
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.J27_TEXT
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :855
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.K27_TEXT
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :893
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.L27_TEXT
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1015
+15:26:04.147 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.M27_TEXT
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1053
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.N27_TEXT
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1175
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.O27_TEXT
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1213
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.148 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.P27_TEXT
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1335
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Q27_TEXT
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1373
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.R27_TEXT
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1501
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :6
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.S27_TEXT
+15:26:04.149 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1533
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.T27_TEXT
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1655
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.U27_TEXT
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1687
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.V27_TEXT
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1815
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.W27_TEXT
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1847
+15:26:04.150 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :60
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.X27_TEXT
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :1975
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :12
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Y27_TEXT
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2013
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.Z27_TEXT
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2129
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :18
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl - rpt1.AA27_TEXT
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   left  :2173
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   top   :689
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   width :54
+15:26:04.151 [pool-3-thread-3] TRACE c.s.b.r.i.c.e.ResultBoxServiceImpl -   height:14

@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<report version="1.0">
-</report>
+<succezci-datapackage version="1.0.13">
+	<head>
+		<modelversion>15250d78a3daa30a816e13aa09ce039d</modelversion>
+		<formpermissions>*=w</formpermissions>
+		<lastsubmittime>0</lastsubmittime>
+		<SYS_UPDATE_TIME>0</SYS_UPDATE_TIME>
+		<audittag>1</audittag>
+		<SYS_AUDIT_TAG>1</SYS_AUDIT_TAG>
+	</head>
+	<hierarchy>
+		<models>
+			<table name="MFA03" version="1.0.13" grain="YEAR,ID_">
+				<field name="YEAR" type="C" len="6"/>
+				<field name="ID_" type="C" len="50"/>
+				<field name="CI_AUDITTAG" type="I" len="0"/>
+				<field name="KHMC" type="C" len="50"/>
+				<field name="KHCJXMC" type="C" len="50"/>
+				<field name="GH1YLG" type="I" len="0"/>
+				<field name="GH1YTZYY" type="C" len="50"/>
+				<field name="GH2YLG" type="I" len="0"/>
+				<field name="GH2YTZYY" type="C" len="50"/>
+				<field name="GH3YLG" type="I" len="0"/>
+				<field name="GH3YTZYY" type="C" len="50"/>
+				<field name="GH4YLG" type="I" len="0"/>
+				<field name="GH4YTZYY" type="C" len="50"/>
+				<field name="GH5YLG" type="I" len="0"/>
+				<field name="GH5YTZYY" type="C" len="50"/>
+				<field name="ORG" type="C" len="50"/>
+			</table>
+		</models>
+		<data>
+			<table name="MFA03">
+				<row>2014,ALITELOZAD-593,,ALITELOZAD,593,,,,,,,,,,,781100-1</row>
+				<row>2014,"Nissan Eroupe Investment Ltd.-608",,"Nissan Eroupe Investment Ltd.",608,1212412,,12313,,123123,,123123,,123123,,700000</row>
+				<row>2014,OKUTGENOTOMOTIVSAN.TIC.LTD.STI.-624,,OKUTGENOTOMOTIVSAN.TIC.LTD.STI.,624,111111,,11111,,11111,,1111,,1111,,781100-1</row>
+				<row>2014,东风德纳车轿有限公司襄樊工厂-671,,东风德纳车轿有限公司襄樊工厂,671,,,,,,,,,,,700000</row>
+				<row>2014,东风伟世通(十堰)汽车饰件系统有限公司-633,,东风伟世通(十堰)汽车饰件系统有限公司,633,0,,0,,0,,2342,,234,,700000</row>
+				<row>2014,东风襄阳物流工贸有限公司-666,,东风襄阳物流工贸有限公司,666,100,,234,,234234,,234234,,234234,,700000</row>
+				<row>2014,上海上汽大众汽车销售有限公司-652,,上海上汽大众汽车销售有限公司,652,0,,234234,,23523,,23523,,23523,,700000</row>
+				<row>2014,上海依赛工业有限公司-605,,上海依赛工业有限公司,605,11111,,11111,,1111111,,11111,,111111,,700000</row>
+				<row>2014,上海再欣汽配有限公司-686,,上海再欣汽配有限公司,686,32424,,23532,,234234,,234234,,234234,,700000</row>
+				<row>2014,郑州日产汽车有限公司-692,,郑州日产汽车有限公司,692,,,,,,,,,,,700000</row>
+			</table>
+		</data>
+	</hierarchy>
+</succezci-datapackage>

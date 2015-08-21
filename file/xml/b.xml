@@ -1,3 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<report version="1.0">
-</report>
+<anychart>
+	<margin all="0"></margin>
+	<settings>
+		<context_menu save_as_image="False" version_info="False" print_chart="False" about_anychart="False" save_as_pdf="False"></context_menu>
+		<animation enabled="True"></animation>
+	</settings>
+	<charts>
+		<chart plot_type="CategorizedVertical">
+			<styles>
+				<animation_style name="chartanimation" show_mode="Together"></animation_style>
+				<bar_style name="style_series7680">
+					<fill enabled="True"></fill>
+				</bar_style>
+				<tooltip_style name="tooltip_series7680" rotation="0">
+					<font color="#000000" family="宋体" size="12" bold="False" italic="False" underline="False"></font>
+					<background enabled="True">
+						<fill enabled="True" opacity="0"></fill>
+						<border enabled="False"></border>
+						<corners type="Square"></corners>
+					</background>
+				</tooltip_style>
+				<bar_style name="series7680_point_0">
+					<fill enabled="True" type="Solid" color="#1D8BD1" opacity="1.0"></fill>
+					<border enabled="False"></border>
+				</bar_style>
+				<bar_style name="series7680_point_1">
+					<fill enabled="True" type="Solid" color="#F1683C" opacity="1.0"></fill>
+					<border enabled="False"></border>
+				</bar_style>
+			</styles>
+			<data_plot_settings enable_3d_mode="False">
+				<bar_series point_padding="0" group_padding="0.4285714285714286"></bar_series>
+			</data_plot_settings>
+			<chart_settings>
+				<title enabled="False">
+				</title>
+				<legend enabled="False" elements_layout="Horizontal" ignore_auto_item="True" align="Center" align_by="DataPlot">
+					<title enabled="False"></title>
+					<items>
+						<item source="series"></item>
+					</items>
+				</legend>
+				<chart_background enabled="True">
+					<border color="#90C7FF" opacity="0.8" thickness="2" type="Solid" enabled="True" caps="None" dashed="False"></border>
+					<fill color="#ffffff" opacity="1.0" type="Solid" enabled="True"></fill>
+					<corners all="8" type="Rounded"></corners>
+					<inside_margin top="10" right="10" bottom="10" left="10"></inside_margin>
+				</chart_background>
+				<axes>
+					<x_axis enabled="True">
+						<title enabled="False"></title>
+						<labels enabled="True" rotation="0">
+							<font color="#000000" family="宋体" size="12" bold="False" italic="False" underline="False"></font>
+							<background>
+								<fill enabled="True"></fill>
+							</background>
+						</labels>
+						<zero_line color="#BBBBBB"></zero_line>
+						<line enabled="True" thickness="1" color="#000000" type="Solid" caps="None" dashed="False" opacity="1.0"></line>
+						<major_grid enabled="True">
+							<line enabled="True" thickness="1" color="#C0C0C0" type="Solid" caps="None" dashed="False" opacity="1.0"></line>
+							<interlaced_fills>
+								<even>
+									<fill enabled="False"></fill>
+								</even>
+								<odd>
+									<fill enabled="False"></fill>
+								</odd>
+							</interlaced_fills>
+						</major_grid>
+						<minor_grid enabled="False"></minor_grid>
+					</x_axis>
+					<y_axis enabled="True">
+						<title enabled="False"></title>
+						<labels enabled="True" rotation="0">
+							<font color="#000000" family="宋体" size="12" bold="False" italic="False" underline="False"></font>
+							<background>
+								<fill enabled="True"></fill>
+							</background>
+							<format><![CDATA[{%Value}{numDecimals:1}]]></format>
+						</labels>
+						<zero_line color="#BBBBBB"></zero_line>
+						<scale minimum="0.0" maximum="2.8000000000000003"></scale>
+						<line enabled="True" thickness="1" color="#000000" type="Solid" caps="None" dashed="False" opacity="1.0"></line>
+						<major_grid enabled="True">
+							<line enabled="True" thickness="1" color="#C0C0C0" type="Solid" caps="None" dashed="False" opacity="1.0"></line>
+							<interlaced_fills>
+								<even>
+									<fill enabled="False"></fill>
+								</even>
+								<odd>
+									<fill enabled="False"></fill>
+								</odd>
+							</interlaced_fills>
+						</major_grid>
+						<minor_grid enabled="False"></minor_grid>
+					</y_axis>
+					<extra>
+						<x_axis enabled="False">
+							<title enabled="False"></title>
+							<zero_line color="#BBBBBB"></zero_line>
+						</x_axis>
+						<y_axis enabled="False" name="axis2y" position="Opposite">
+							<title enabled="False"></title>
+							<labels enabled="True">
+							</labels>
+							<zero_line color="#BBBBBB"></zero_line>
+						</y_axis>
+					</extra>
+				</axes>
+				<chart_animation style="chartanimation" enabled="True"></chart_animation>
+				<data_plot_background enabled="True">
+					<fill enabled="True" type="Solid" color="#FFFFFF" opacity="1.0"></fill>
+					<border enabled="False"></border>
+					<corners type="Square"></corners>
+				</data_plot_background>
+			</chart_settings>
+			<data>
+				<series type="Bar" name="系列1" style="style_series7680" shape_type="Box">
+					<tooltip enabled="True" style="tooltip_series7680"></tooltip>
+					<animation enabled="True" style="chartanimation"></animation>
+					<point name="a" y="1.0" color="#1D8BD1" style="series7680_point_0">
+						<tooltip>
+							<format><![CDATA[33.33%
+3.00
+							]]></format>
+						</tooltip>
+					</point>
+					<point name="b" y="2.0" color="#F1683C" style="series7680_point_1">
+						<tooltip>
+							<format><![CDATA[66.67%
+3.00
+							]]></format>
+						</tooltip>
+					</point>
+				</series>
+			</data>
+		</chart>
+	</charts>
+</anychart>

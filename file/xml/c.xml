@@ -1,3 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<report version="1.0">
+<report version="1.0.13">
+	<head>
+		<datasources/>
+		<properties>
+			<civisible>=!$id.isleaf</civisible>
+		</properties>
+	</head>
+	<params id="paramsdesignpanel">
+		<placeholder>拖拽参数到此控件</placeholder>
+	</params>
+	<body>
+		<page pagename="main" active="true">
+			<component type="text" id="text1">
+				<value>报表1</value>
+				<placeholder>点击此处输入文本</placeholder>
+				<margin>5px</margin>
+			</component>
+		</page>
+	</body>
+</report>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<report version="1.0.13">
+	<head>
+		<datasources/>
+		<properties>
+			<civisible>=!$id.isleaf</civisible>
+		</properties>
+	</head>
+	<params id="paramsdesignpanel">
+		<placeholder>拖拽参数到此控件</placeholder>
+	</params>
+	<body>
+		<page pagename="main" active="true">
+			<component type="text" id="text1">
+				<value>报表2</value>
+				<placeholder>点击此处输入文本</placeholder>
+				<margin>5px</margin>
+			</component>
+		</page>
+	</body>
 </report>
